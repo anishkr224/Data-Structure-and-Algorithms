@@ -1,1 +1,18 @@
-Java primer, Object oriented design, fundamental data structures, algorithm analysis, recursion, stacks, queues, List, trees
+- Java primer
+
+- Object oriented design
+
+- Fundamental data structures
+
+- Algorithm analysis
+
+- Recursion
+
+- Stacks
+
+- Queues
+
+- List
+
+- Trees
+
